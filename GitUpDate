@@ -1,0 +1,10 @@
+git config --global user.name "QuocAnhHaiBaRa"
+git config --global user.email "focus.linux.2611@gmail.com"
+cd /home/haibara/Desktop/gittest
+git init
+
+
+git add QADATA
+git commit -m "i added QADATA"
+git remote add origin https://github.com/QuocAnhHaiBaRa/TEST.git
+git push -u origin master
